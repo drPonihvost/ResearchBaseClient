@@ -1,0 +1,2 @@
+# ResearchBaseClient
+PySide2
