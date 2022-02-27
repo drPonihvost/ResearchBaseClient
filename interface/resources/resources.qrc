@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="dna_icon.svg">icon/dna_icon.svg</file>
+    <file alias="ubuntu_regular.ttf">font/Ubuntu-Regular.ttf</file>
+    <file alias="ubuntu_bold.ttf">font/Ubuntu-Bold.ttf</file>
+</qresource>
+</RCC>
+
